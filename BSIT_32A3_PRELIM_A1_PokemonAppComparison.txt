@@ -1,0 +1,5 @@
+The script.js file makes the page interactive. When you type a Pokémon's name in the input box and click the button, it gets data from an online Pokémon database (Pokémon API). If the Pokémon is found, it shows details like name, height, weight, and types. If not, it shows an error message.
+
+The styles.css file makes the page look nice. It uses a light blue background and readable fonts. The page title is bright red-orange. The input box and button look clean, and the button changes color when you hover over it. Pokémon details are styled to look neat.
+
+The test.html file is the page's basic setup. It has a form to type a Pokémon's name and a button to search. There's also a section where Pokémon details appear after searching. It links to the CSS for design and the JavaScript for interactive features.
